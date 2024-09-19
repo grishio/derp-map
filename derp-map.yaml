@@ -1,0 +1,15 @@
+{
+    "Regions": {
+        "999": {
+                "RegionID": 999,
+                "RegionCode": "WA",
+                "Nodes": [
+                {
+                    "Name": "Vultr - Seattle",
+                    "RegionID": 999,
+                    "HostName": "scale.grishtech.net"
+                }
+                ]
+            }
+    }
+}
